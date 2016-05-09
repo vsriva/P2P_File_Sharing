@@ -1,5 +1,8 @@
 # P2P_File_Sharing
 P2P_File_Sharing using Python
+Date Started:10 Sep 2015
+Date Ended:25 Sep 2015
+Course:CEN502 Computer System II
 The program will only run on Linux based systems. Window does not support some features used in the code. 
 1. Go to p2pserver folder and open the terminal, run s.py to setup the server 
 2. Go to p2pclient1 and p2pclient2 folder and open terminal, run c.py to setup the clients 
